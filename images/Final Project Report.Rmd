@@ -1,0 +1,30 @@
+---
+title: How do climate and building age affect household energy consumption across
+  United States?
+author: "Ellie Chen, Xiaoqi Zhou, Lee Ko"
+date: "12/6/2022"
+output:
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+setwd("/Users/chenjunzhuo/Documents/GitHub/final-project-xiaoqi-ellie-lee/images/")
+```
+
+## First level title
+
+- **Second level title**
+
+```{r, echo=FALSE, out.width="50%", fig.cap="A nice image."}
+# use echo=FALSE to hide the code
+knitr::include_graphics("map_energy_efficient_home.png")
+```
+
+## Including Plots
+
+```{r, echo=FALSE,out.width="40%", out.height="40%",fig.cap="caption", fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("map_energy_efficient_home.png","map_elec.png"))
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

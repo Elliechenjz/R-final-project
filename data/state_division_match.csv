@@ -1,0 +1,52 @@
+"Region","Division","States","Division_num"
+"Northeast","New England","Connecticut",1
+"Northeast","New England","Maine",1
+"Northeast","New England","Massachusetts",1
+"Northeast","New England","New Hampshire",1
+"Northeast","New England","Vermont",1
+"Northeast","New England","Rhode  Island",1
+"Northeast","Middle Atlantic","New Jersey",2
+"Northeast","Middle Atlantic","New York",2
+"Northeast","Middle Atlantic","Pennsylvania",2
+"Midwest","East North Central","Illinois",3
+"Midwest","East North Central","Indiana",3
+"Midwest","East North Central","Michigan",3
+"Midwest","East North Central","Ohio",3
+"Midwest","East North Central","Wisconsin",3
+"Midwest","West North Central","Iowa",4
+"Midwest","West North Central","Kansas",4
+"Midwest","West North Central","Minnesota",4
+"Midwest","West North Central","Missouri",4
+"Midwest","West North Central","Nebraska",4
+"Midwest","West North Central","North Dakota",4
+"Midwest","West North Central","South  Dakota",4
+"South","South Atlantic","Delaware",5
+"South","South Atlantic","District of Columbia",5
+"South","South Atlantic","Florida",5
+"South","South Atlantic","Georgia",5
+"South","South Atlantic","Maryland",5
+"South","South Atlantic","North  Carolina",5
+"South","South Atlantic","South Carolina",5
+"South","South Atlantic","Virginia",5
+"South","South Atlantic","West Virginia",5
+"South","East South Central","Alabama",6
+"South","East South Central","Kentucky",6
+"South","East South Central","Mississippi",6
+"South","East South Central","Tennessee",6
+"South","West South Central","Arkansas",7
+"South","West South Central","Louisiana",7
+"South","West South Central","Oklahoma",7
+"South","West South Central","Texas",7
+"West","Mountain","Arizona",8
+"West","Mountain","Colorado",8
+"West","Mountain","Idaho",8
+"West","Mountain","Montana",8
+"West","Mountain","Nevada",8
+"West","Mountain","New Mexico",8
+"West","Mountain","Utah",8
+"West","Mountain","Wyoming",8
+"West","Pacific","Alaska",9
+"West","Pacific","California",9
+"West","Pacific","Hawaii",9
+"West","Pacific","Oregon",9
+"West","Pacific","Washington",9

@@ -1,0 +1,14 @@
+name: final-project-xiaoqi-ellie-lee
+title: final-project-xiaoqi-ellie-lee
+username:
+account: elliechen-question3-shiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7832735
+bundleId: 6601557
+url: https://elliechen-question3-shiny.shinyapps.io/final-project-xiaoqi-ellie-lee/
+when: 1670370019.92726
+lastSyncTime: 1670370019.92728
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|ahs_analysis_supplementary.R|nlp.R|README.md|README.pdf|res_analysis.R|scraping_table.R|Shiny app interface.pdf|Annual Energy outlook|data

@@ -1,0 +1,13 @@
+name: final_project
+title: final_project
+username:
+account: elliechen-question3-shiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7833227
+bundleId: 6601857
+url: https://elliechen-question3-shiny.shinyapps.io/final_project/
+when: 1670375391.27756
+lastSyncTime: 1670375391.27758
+asMultiple: FALSE
+asStatic: FALSE
